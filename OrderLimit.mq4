@@ -1,6 +1,6 @@
 //+------------------------------------------------------------------+
-//|                                                Order Manager EA.mq4 |
-//|                                         Copyright 2025, japarico |
+//|                                                Order Manager EA with Stop Loss.mq4 |
+//|                                         Copyright 2026, japarico |
 //+------------------------------------------------------------------+
 #import "user32.dll"
 int MessageBoxA(int Ignore,string Caption,string Title,int Icon);
