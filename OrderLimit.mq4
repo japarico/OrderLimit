@@ -1,5 +1,5 @@
 //+------------------------------------------------------------------+
-//|                                                Order Manager EA with Stop Loss.mq4 |
+//|                              Order Manager EA with Stop Loss.mq4 |
 //|                                         Copyright 2026, japarico |
 //+------------------------------------------------------------------+
 #import "user32.dll"
